@@ -1,0 +1,22 @@
+html {
+	position: relative;
+	min-height: 100%;
+}
+body {
+	margin-bottom: 60px;
+}
+.table tr {
+	border-bottom: 1px solid #ccc !important;
+}
+.table tbody tr:last-child {
+	border-bottom: 0 !important;
+}
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+	/* color: #fff;
+	background-color: #000; */
+}

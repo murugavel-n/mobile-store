@@ -1,0 +1,22 @@
+[
+	{
+		"label": "Select Price",
+		"value": ""
+	},
+	{
+		"label": "Below 5000",
+		"value": "0-5000"
+	},
+	{
+		"label": "5000 - 10000",
+		"value": "5000-10000"
+	},
+	{
+		"label": "10000 - 25000",
+		"value": "10000-25000"
+	},
+	{
+		"label": "Above 25000",
+		"value": "25000-ALL"
+	}
+]

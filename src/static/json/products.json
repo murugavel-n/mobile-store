@@ -1,0 +1,57 @@
+[
+	{
+		"id": 1,
+		"name": "Apple iPhone 6 (Space Grey, 32GB)",
+		"brand": "Apple",
+		"current_price": 23999,
+		"mrp_price": 29500,
+		"discount": 19,
+		"image": "https://images-eu.ssl-images-amazon.com/images/I/41qcJFbvAJL._AC_US160_FMwebp_QL70_.jpg",
+		"isNew": false,
+		"isPopular": true
+	},
+	{
+		"id": 2,
+		"name": "Nokia 105 (Black)",
+		"brand": "Nokia",
+		"current_price": 948,
+		"mrp_price": 1199,
+		"discount": 21,
+		"image": "https://images-eu.ssl-images-amazon.com/images/I/41ymkORd8ML._AC_US160_FMwebp_QL70_.jpg",
+		"isNew": false,
+		"isPopular": false
+	},
+	{
+		"id": 3,
+		"name": "Samsung Galaxy S8 Plus (4GB RAM, 64GB ROM, Black)",
+		"brand": "Samsung",
+		"current_price": 48499,
+		"mrp_price": 74999,
+		"discount": 35,
+		"image": "https://images-eu.ssl-images-amazon.com/images/I/41UNvPmMAgL._AC_US160_.jpg",
+		"isNew": true,
+		"isPopular": true
+	},
+	{
+		"id": 4,
+		"name":"Redmi 5 (Black, 32GB)",
+		"brand":"Mi",
+		"current_price": 8999,
+		"mrp_price": 9999,
+		"discount": 10,
+		"image": "https://images-eu.ssl-images-amazon.com/images/I/41FPXx+9o0L._AC_US160_.jpg",
+		"isNew": true,
+		"isPopular": false
+	},
+	{
+		"id": 5,
+		"name": "Honor 7X (Blue, 4GB RAM + 32GB memory)",
+		"brand": "Honor",
+		"current_price": 12499,
+		"mrp_price": 13999,
+		"discount": 11,
+		"image": "https://images-eu.ssl-images-amazon.com/images/I/41dB9LZpWJL._AC_US160_.jpg",
+		"isNew": true,
+		"isPopular": true
+	}
+]

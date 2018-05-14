@@ -1,0 +1,42 @@
+[
+	{
+		"label": "Select Brand",
+		"value": ""
+	},
+	{
+		"label": "Apple",
+		"value": "Apple"
+	},
+	{
+		"label": "Samsung",
+		"value": "Samsung"
+	},
+	{
+		"label": "LG",
+		"value": "LG"
+	},
+	{
+		"label": "Sony",
+		"value": "Sony"
+	},
+	{
+		"label": "Nokia",
+		"value": "Nokia"
+	},
+	{
+		"label": "Honor",
+		"value": "Honor"
+	},
+	{
+		"label": "Mi",
+		"value": "Mi"
+	},
+	{
+		"label": "Lenovo",
+		"value": "Lenovo"
+	},
+	{
+		"label": "Motorola",
+		"value": "Motorola"
+	}
+]

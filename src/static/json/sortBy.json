@@ -1,0 +1,26 @@
+[
+	{
+		"label": "Popular Items",
+		"value": "POPULAR"
+	},
+	{
+		"label": "Price Low to High",
+		"value": "PRICE-ASC"
+	},
+	{
+		"label": "Price High to Low",
+		"value": "PRICE-DESC"
+	},
+	{
+		"label": "New Arraivals",
+		"value": "NEW"
+	},
+	{
+		"label": "Discount Low to High",
+		"value": "DISCOUNT-ASC"
+	},
+	{
+		"label": "Discount High to Low",
+		"value": "DISCOUNT-DESC"
+	}
+]
