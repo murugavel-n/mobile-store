@@ -1,4 +1,4 @@
-# mymobilestore03.github.io
+# mobile-store
 ## Simple shopping cart application
 #### Installation:
 To run this application node.js and gulp cli must be installed before proceeding to install the dependencies of this application.
